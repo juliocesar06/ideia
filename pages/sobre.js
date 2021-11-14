@@ -4,7 +4,7 @@ import Link from "next/link";
 function Home() {
   return (
     <div>
-      <p>Home</p>
+      <p>Sobre</p>
       <Link href="/">
         <a>Acessar página Home</a>
       </Link>
