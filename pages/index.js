@@ -5,8 +5,13 @@ function Home() {
     <div>
       <p>Home</p>
       <Contador />
+      <Header />
     </div>
   );
+}
+
+function Header() {
+  return <div>teste</div>;
 }
 
 function Contador() {
